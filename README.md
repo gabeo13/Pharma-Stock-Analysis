@@ -107,10 +107,9 @@ Please visit the link [here](https://algotrading101.com/learn/yahoo-finance-api-
     * LLY: Highest Growth Potential
     * JNJ: Modest Growth Potential
     * PFE: Lowest Growth Potential
-
-![](output_data/PEG_cap.png)
-
 * PRGO, VTRS, & ABBV did not report PEG at the time of this analysis.
+
+![](output_data/peg_cap.png)
 
 ---
 ## PB Ratio

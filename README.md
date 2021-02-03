@@ -41,7 +41,7 @@ Please visit the link [here](https://algotrading101.com/learn/yahoo-finance-api-
 * CTLT - Catalent
 * PRGO - Perrigo
 
-![](Images/summary_table.png)
+![](output_data/sum_table.png)
 
 ---
 ## Market Capitalization
@@ -74,7 +74,7 @@ Please visit the link [here](https://algotrading101.com/learn/yahoo-finance-api-
 
 ### Price Snapshot by Company
 
-![](output_data/price_cap.png)
+![](output_data/price_comp.png)
 
 ---
 ## PE Ratio
